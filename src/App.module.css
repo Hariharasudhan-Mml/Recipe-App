@@ -1,0 +1,22 @@
+.App{
+  text-align: center;
+}
+.App__backbtn{
+  background-color: rgb(233, 72, 72);
+  display: flex;
+  color: white;
+  justify-content: flex-start;
+  margin: 20px;
+}
+.App__backbtn:hover{
+color: black;
+}
+.App_header{
+  color: maroon;
+  border-bottom: 2px solid red;
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: oblique;
+font-size:30px ;
+margin-top: 20px;
+}

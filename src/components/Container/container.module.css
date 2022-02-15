@@ -1,0 +1,9 @@
+.container{
+    padding: 5px;
+    /* background-color: black; */
+    display:flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+

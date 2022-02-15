@@ -1,0 +1,33 @@
+.search{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+.search__input{
+    width: 60%;
+    background-color: darkgray;
+    display:flex ;
+    justify-content: space-around;
+    padding:5px  ;
+    border-radius: 20px;
+
+}
+.search__input > input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    width: 80%;
+}
+.search__icon{
+    color:rgb(32, 51, 63);
+}
+.search__button{
+    background-color:rgb(125, 207, 235);
+    border-radius: 4px;
+}
+.search__button > button{
+    text-transform: capitalize !important;
+color: rgb(31, 0, 70);
+font-family:Arial, Helvetica, sans-serif;
+}
